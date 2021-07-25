@@ -1,0 +1,17 @@
+export {default as Bell} from './bell.svg';
+export {default as Cart} from './cart.svg';
+export {default as Eyehide} from './eyehide.svg';
+export {default as Eyeshow} from './eyeshow.svg';
+export {default as Back} from './back.svg';
+export {default as Backwhite} from './backwhite.svg';
+export {default as Up} from './up.svg';
+export {default as Down} from './down.svg';
+export {default as Download} from './download.svg';
+export {default as Starcolor} from './starcolor.svg';
+export {default as Starnocolor} from './starnocolor.svg';
+export {default as Send} from './send.svg';
+export {default as Close} from './close.svg';
+export {default as Cartwhite} from './cartwhite.svg';
+export {default as Chekok} from './chekok.svg';
+export {default as Delete} from './delete.svg';
+export {default as Right} from './right.svg';
